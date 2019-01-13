@@ -1,0 +1,7 @@
+include setup.py
+include README.rst
+include LICENSE
+include AUTHORS.rst
+include HISTORY.rst
+include requirements.txt
+recursive-include pycountry_convert *.py
